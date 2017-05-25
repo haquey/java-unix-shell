@@ -1,0 +1,6 @@
+Class name: File
+Parent Class: Item
+
+Responsibilities:
+*Prints out the contents of the file
+*Can modify and append the contents of the file 

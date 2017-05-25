@@ -1,0 +1,7 @@
+Class name: Output
+
+Responsibilities:
+*takes message from the shell displays it on the screen
+*formats the message into the desired output format
+
+Collaborators:

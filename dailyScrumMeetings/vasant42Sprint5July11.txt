@@ -1,0 +1,10 @@
+a) What did I work on last time?
+ - Implemented "Item" class to avoid using "Object" as a parameter
+ - Discussed implementation and returning strings with group members
+
+b) What do I plan to work on now?  
+ - Create test cases for -R in LS
+ - Create a function in file system for unified path handling
+ 
+c) Am I blocked on anything?
+ - No, I am not

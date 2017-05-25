@@ -1,0 +1,10 @@
+Class name: EchoAppend
+ParentClass: EchoOverwrite
+
+Responsibilities:
+*modifies the specified file such that it appends an extra string line “STRING”
+ to the end of the file. i.e. echo STRING >> OUTFILE
+*only works on one File object per command
+
+Collaborations:
+None

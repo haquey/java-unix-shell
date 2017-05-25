@@ -1,0 +1,17 @@
+a) What did I work on last time?
+	I discussed with my group dates and meeting times to work on the assignment
+	I discussed with my group which crc to use and what should be included
+	in the group's crc cards
+	I created multiple crc cards
+	I have discussed with my group which roles everyone has
+	I have discussed with my group which tasks are assignment to whom
+	
+	
+b) What do I plan to work on now?  
+	I will discuss with my group which tasks needed to be done by when
+	implementing classes such as exit, pwd, ...
+	I will discuss with my group if there are any changes to finalize the crc
+	cards
+
+c) Am I blocked on anything?
+	I am not blocked on anything

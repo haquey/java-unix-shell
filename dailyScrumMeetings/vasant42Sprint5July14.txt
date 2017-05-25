@@ -1,0 +1,10 @@
+a) What did I work on last time?
+ - Created the getFullPath method in jFileSystem to ensure unified path handling
+ - Created the InvalidPath exception class
+
+b) What do I plan to work on now?  
+ - Create test cases for -R in LS
+ - Complete CP class
+ 
+c) Am I blocked on anything?
+ - No, I am not

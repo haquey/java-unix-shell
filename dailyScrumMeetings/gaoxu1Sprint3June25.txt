@@ -1,0 +1,20 @@
+a) What did I work on last time?
+	Edited CD class to work with ".." and "." in the file path
+	Corrected small bugs in CD class
+	Made everything cleaner by adding helper functions
+	Edited small bugs in EchoAppend and EchoOverwrite to work with general
+	Echo class, corrected small bugs
+	I have corrected small bug in Output printContents function where
+	it would print the vector given instead of its elements
+	Started testing code
+	
+	
+b) What do I plan to work on now?  
+	I will continue testing others' codes to make sure we're continuously on 
+	track
+	I will document my edited work
+	I will continue testing my own code
+
+c) Am I blocked on anything?
+	I am not blocked on anything
+	

@@ -1,0 +1,55 @@
+  User Stories						                            Estimate (Hours)
+  
+  Display a list of valid commands for the user to 						4	
+  input
+  
+  The user should be able to input a command        			    	1
+
+  The user will be notified if their commands not valid 	    		5
+  
+  The user can terminate the session by running the 					2
+  “exit” command
+  
+  The user can create new directories using the “mkdir”					8
+  command and a directory “DIR” i.e. mkdir DIR
+  
+  The user can move into any folder using the "cd" command              7 
+  
+  The user should be able to print the contents of any file				5 
+  
+  The user should be able to print the directories that are inside      6
+  of another specified one
+  
+  The user should also be able to view all the  a folders and the       4  
+  contents of those folders
+  
+  The user should be able to move a Folder from one place to another    2
+ 
+  The user should be able to rename Folder or Files						2
+  
+  The user should be able to copy directories and the contents of files 5
+  
+  The user can display the whole path of the current directory 			1
+  
+  
+  The user can save the current working Folder							4
+  
+  The user should also be able to remove the last saved folder			1
+  
+  The user can print out recent commands in chronological 				4
+  order
+  
+  The user should be able to redirect the output of any command into    5   
+  a file
+  
+  The user should be able to get the description of all the commands    5
+
+  
+  The user should be able to get text from a url						7
+
+
+  The user can print any lines containing a given regex in a file		5
+
+  The user can check all lines in all files that contain a given		6
+  regex
+  

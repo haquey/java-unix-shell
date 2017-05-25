@@ -1,0 +1,18 @@
+a) What did I work on last time?
+	created new OutputToFile class that would take an output and send it
+	to a file given the proper parameters
+	Documented OutputToFile class so everyone can implement the class into
+	their commands
+	Started discussing with team reassessing the roles of each team mate
+	Started implementing changes to older classes such as cat, echo, PWD
+	
+	
+b) What do I plan to work on now?  
+	I will continue changing my older classes to meet the new requirements
+	I will continue discussing with my team how my new commands will 
+	collaborate	with the current fileSystem
+	I will start creating new code once I am done revising my old commands
+
+c) Am I blocked on anything?
+	I am not blocked on anything
+	

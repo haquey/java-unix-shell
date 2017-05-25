@@ -1,0 +1,12 @@
+a) What did I work on last time?
+	- Made the grep command - the first stage
+	- Made the !Number command
+	- Updated some files
+	- Added grepTest
+
+b) What do I plan to work on now?  
+	- Continue working on grep
+	- Continue to test !Number command
+
+c) Am I blocked on anything?
+	- Am trying to figure out how to use a library for grep

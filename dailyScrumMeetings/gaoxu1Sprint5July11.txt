@@ -1,0 +1,19 @@
+a) What did I work on last time?
+	Corrected OutputToFile class so that it can traverse through paths
+	Made OutputToFile an abstract class so all commands can inherit the
+	append and overwrite methods to redirect output
+	Documented OutputToFile class
+	Documented PWD class and implemented redirection of output to test
+	Corrected bugs in CAT and CD
+	
+	
+b) What do I plan to work on now?  
+	I will start creating unit tests for redirection of output
+	I will start creating unit tests for OutputToFile class
+	I will start implementing redirection of output to all other commands
+	I will correct CD according to the new FileSystem Commands
+	I will start coding get command
+
+c) Am I blocked on anything?
+	I am not blocked on anything
+	

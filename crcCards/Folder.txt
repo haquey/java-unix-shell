@@ -1,0 +1,6 @@
+Class name: Folder
+
+ParentClass: Item
+
+Responsibilities:
+*Contain and manage all the child objects for 1 level down

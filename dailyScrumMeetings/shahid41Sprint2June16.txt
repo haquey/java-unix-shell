@@ -1,0 +1,14 @@
+a) What did I work on last time?
+ - Began DirStack, was not able to finish
+ - History was updated to prevent crashes if the user placed inputs that
+ 	were outside the size of the history
+ - Thought of the implementation of DirStack
+ - Added some functionality to JShell as group added new classes
+
+b) What do I plan to work on now?  
+ - I will finish the DirStack, PushD and PopD classes
+ - I will update the JShell as needed per update of classes
+ - If there is time I will begin creating test cases for the history class
+
+c) Am I blocked on anything?
+ - Not at the moment

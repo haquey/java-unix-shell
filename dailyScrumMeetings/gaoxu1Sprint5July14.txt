@@ -1,0 +1,16 @@
+a) What did I work on last time?
+	Corrected OutputToFile class so that it can traverse through paths
+	Corrected my old commands (CD, PWD, CAT) to include redirecting output
+	and return a string in execute command
+	Started on Curl command
+	
+	
+b) What do I plan to work on now?  
+	I will start creating unit tests for OutputToFile class and older
+	classes with string being returned
+	I will start implementing redirection of output to all other commands
+	I will continue coding curl command
+
+c) Am I blocked on anything?
+	I am not blocked on anything
+	

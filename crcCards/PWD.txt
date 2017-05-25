@@ -1,0 +1,9 @@
+Class name: PWD
+
+Parent class: CommandInterface
+
+Responsibilities:
+*prints the whole path of the current directory
+
+Collaborators:
+*FileSystem

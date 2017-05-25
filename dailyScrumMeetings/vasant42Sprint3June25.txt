@@ -1,0 +1,11 @@
+a) What did I work on last time?
+ - Completely finished LS and Mkdir; removed all bugs; added all functionality
+ - Tested using informal test cases
+ - Changed the implementation of JFileSystem into an interface which uses a 
+   tree like system for Files/Folders
+
+b) What do I plan to work on now?  
+ - Create test cases for JFileSystem
+
+c) Am I blocked on anything?
+ - Unsure of how to test classes that return nothing vs ones that do

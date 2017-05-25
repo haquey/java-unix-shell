@@ -1,0 +1,10 @@
+Class name: Mkdir
+
+Responsibilities:
+*Can create a new file directory given a specified path
+*If no path is specified, the new directory is created in the current directory
+
+Collaborators:
+*FileSystem
+*Folder
+*Man

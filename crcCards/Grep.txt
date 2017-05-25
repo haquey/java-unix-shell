@@ -1,0 +1,13 @@
+Class name: Grep
+
+Parent Class: CommandInterface
+
+Responsibilities:
+*Prints any lines containing a given regex in a file path
+
+*Checks all lines in all files that contain a given
+ regex and outputs file name, file location and the lines that
+ contain the given regex
+
+Collaborators:
+*FileSystem

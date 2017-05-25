@@ -1,0 +1,12 @@
+
+a) What did I work on last time?
+	- Fixed bugs in ProQuery implementation
+	- Finished methods regarding moving items to folders in MV class
+	- Changed CommandInterface design and subclasses to accomodate
+
+b) What do I plan to work on now?  
+	- Debug MV class
+	- Finish testing ProQuery
+	- Finish testing MV class
+
+c) Am I blocked on anything?

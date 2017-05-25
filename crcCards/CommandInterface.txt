@@ -1,0 +1,9 @@
+Class name: CommandInterface
+
+Subclass: Cat, CD, Echo, Exit, LS, Man, Mkdir, PWD
+
+Responsibilities:
+*Directs behaviour of all command child classes.
+*Outlines methods of all child command classes.
+
+Collaborators:

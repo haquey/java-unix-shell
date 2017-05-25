@@ -1,0 +1,14 @@
+
+a) What did I work on last time?
+	- Almost complete implementing ProQuery class
+	- Almost complete implementing Man class
+	- Continued working on Cat class
+	
+b) What do I plan to work on now?  
+	- Commit completed code for Cat, Man and ProQuery classes
+	- Test classes using java unit testing after code completion
+
+c) Am I blocked on anything?
+	- Need to discuss design implementation of command classes with group so
+	  that I can progress on ProQuery class. Need to find out how to interface
+	  with the other classes.

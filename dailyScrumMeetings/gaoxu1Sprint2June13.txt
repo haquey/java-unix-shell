@@ -1,0 +1,18 @@
+a) What did I work on last time?
+	Completed exit class with documentation
+	Started output for errors
+	corrected missing product backlog user stories
+	corrected missing crc cards
+	discussed implementation of future classes with current classes
+	discussed with group on how each other's class works
+	
+	
+b) What do I plan to work on now?  
+	I will start implementing pwd and cd classes
+	I will start testing others' codes to make sure we're continuously on track
+	I will start implementing two echo classes
+	I will complete output once history and other classes are complete
+
+c) Am I blocked on anything?
+	I am stuck on the implementation of Output until history and other classes
+	that ouputs information are complete.

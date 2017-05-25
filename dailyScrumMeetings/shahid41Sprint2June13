@@ -1,0 +1,16 @@
+a) What did I work on last time?
+ - Created the JShell, or, before the name change, the "Input" class
+ 	this is still incomplete as other classes need to be made to complete it
+ - Completed the History class
+
+b) What do I plan to work on now?  
+ - Continue updating the JShell as new classes are made
+ - Modify crcCards as we go as the implementation of the JShell is not entirely
+ 	decided upon
+ - Create the DirStack class
+ - Create the PopD class
+ - Create the PushD class
+
+c) Am I blocked on anything?
+ - I will be unable to complete the JShell until classes are made, we as a
+ 	group must still discuss the implementation of it

@@ -1,0 +1,10 @@
+Class name: CD
+
+Parent class: CommandInterface
+
+Responsibilities:
+*changes the current directory to a specified directory
+*changes directory to parent or current directory
+
+Collaborators:
+*FileSystem

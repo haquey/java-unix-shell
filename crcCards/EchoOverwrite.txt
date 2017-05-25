@@ -1,0 +1,9 @@
+Class name: EchoOverwrite
+
+Responsibilities:
+*Modifies a specified file such that it only contains a given string argument
+*If the file specified does not exist, a new file with the given string
+ is created instead
+ 
+Collaborators:
+*FileSystem

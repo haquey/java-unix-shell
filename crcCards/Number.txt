@@ -1,0 +1,11 @@
+Class name: Number
+
+ParentClass: CommandInterface
+
+Responsibilities:
+*Runs a previously input command based on a number given with reference to
+ the history of the file system
+
+Collaborators:
+*ProQuery
+*JFileSystem

@@ -1,0 +1,42 @@
+June 08 to June 13
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Allow the user to run the program and automatically to create an empty 
+   directory
+b) The user should be able to input a command 
+c) The user can terminate the session by running the “exit” command
+d) The user will be notified if their commands not valid
+e) The user can print out recent commands in chronological order using the 
+   “history” command, this also includes syntactic errors typed. i.e history.
+f) The user can create new directories using the “mkdir” command and a 
+   directory “DIR” i.e. mkdir DIR
+g) Display the results of the users command(s)
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+b-1. (JShell) Let the user input a string 
+c-1. (Exit) Have the console terminate once the command is run
+d-1. (Validator) Parse the user input for proper keywords
+d-2. (Validator) Returns a boolean according to validity of entry
+e-1. (History) Output all commands input to the JShell, in chronological order
+f-1. (Mkdir) Base code for the class will be done
+f-2. (Mkdir) Will be able to create directories and add them to the file system
+f-3. (FileSystem) Begin base code for FileSystem
+f-4. (Folder) Create a class that will represent a folder/directory
+g-1. (Output) Base code for the class will be done
+
+These tasks are assigned as follows:
+
+User: Xu Sheng Gao
+Tasks: c-1, g-1   
+
+User: Yasir Haque
+Tasks: d-1, d-2
+
+User: Marion Vasantharajah
+Tasks: f-1, f-2, f-3, f-4
+
+User: Adnan Shahid
+Tasks: a-1, a-2, b-1, e-1

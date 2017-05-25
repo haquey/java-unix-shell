@@ -1,0 +1,9 @@
+Class name: PopD
+
+Responsibilities:
+*Removes the last saved directory and makes it the current working directory
+*Outputs an error message if there is no saved directory
+
+Collaborators:
+*JFileSystem
+*DirStack

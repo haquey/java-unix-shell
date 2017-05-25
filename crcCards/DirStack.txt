@@ -1,0 +1,7 @@
+Class name: DirStack
+
+Responsibilities:
+*Stores directories using LIFO implementation
+
+Collaborators:
+*None

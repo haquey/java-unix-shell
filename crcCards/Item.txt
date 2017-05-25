@@ -1,0 +1,8 @@
+Class name: Item
+
+Child Classes: File, Folder
+
+Responsibilities:
+*Stores name's of Folder/Files
+*Stores path's of Folder/Files
+*Stores children of Folder 

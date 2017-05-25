@@ -1,0 +1,20 @@
+
+a) What did I work on last time?
+	- Completed Validator class
+	- Casually tested Validator class
+	- Created/fixed crc cards 
+
+b) What do I plan to work on now?  
+	- Start and potentially finish the following class methods:
+	  - proQuery
+	  - file
+	  - man
+	  - cat
+	- Will edit and create crc cards as needed if any changes to the design
+	  occur
+	- Complete the toString methods in each command class to complete the
+	  'man' command class
+
+c) Am I blocked on anything?
+	- Will have to employ mock testing to test the proQuery class which
+	  collaborates with all the command classes

@@ -1,0 +1,14 @@
+a) What did I work on last time?
+ - Updated DirStack to new implementation as discussed by group
+ - Finished classes PushD and PopD
+ - Assisted in modifying the JShell
+
+b) What do I plan to work on now?  
+ - I will complete the Man class using an interface
+ - Testing for all classes
+ - Further discuss the dirstack and pushD and popD implementation
+ 	as I don't think they are the best at the moment as decided by the group
+
+c) Am I blocked on anything?
+ - I hope to find a better way to implement the pushD and popD classes using
+ 	the interface 

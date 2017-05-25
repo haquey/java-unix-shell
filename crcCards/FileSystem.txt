@@ -1,0 +1,9 @@
+Class name: FileSystem
+
+Subclasses:
+*JFileSystem
+
+Responsibilities:
+*Outlines methods of all child command classes.
+
+Collaborations:
