@@ -1,0 +1,19 @@
+a) What did I work on last time?
+	Edited cd class to work with just file name of current directory
+	Edited small bugs in EchoAppend and EchoOverwrite to include making 
+	new files
+	I have completed Output class and created new methods
+	Completed documentation for CD, PWD, EchoAppend, EchoOverwrite classes
+	Helped teammates with CAT command
+	Started testing code
+	
+	
+b) What do I plan to work on now?  
+	I will continue testing others' codes to make sure we're continuously on 
+	track
+	I will finish sorting errors in CD command
+	I will continue testing my own code
+
+c) Am I blocked on anything?
+	I am stuck on logical errors in CD command
+	

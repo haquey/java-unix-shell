@@ -1,0 +1,14 @@
+a) What did I work on last time?
+ - Tested Mkdir and LS against Proquery
+ - Found a few bugs, some of which have already been fixed
+ - Added some bits of functionality to Mkdir and LS (like working with files
+   and working with paths with a "/" at the end)
+
+b) What do I plan to work on now?  
+ - Fix all bugs in LS and Mkdir
+ - Change the implementation of the hierarchy of the folders slightly
+ - Try to shift through and remove redundant code after implementation is 
+   changed
+
+c) Am I blocked on anything?
+ - No not at the moment

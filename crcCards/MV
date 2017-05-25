@@ -1,0 +1,11 @@
+Class name: MV
+
+Parent Class: CommandInterface
+
+Responsibilities:
+*Moves a file within the filesystem from a specified old path to a new path
+
+Collaborators:
+*FileSystem
+*Folder
+*Man

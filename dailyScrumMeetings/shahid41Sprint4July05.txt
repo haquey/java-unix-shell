@@ -1,0 +1,9 @@
+a) What did I work on last time?
+	- Discussed design implementation
+	- Made some new crc cards for impelmentation
+
+b) What do I plan to work on now?  
+	- Add the !number program
+
+c) Am I blocked on anything?
+	- Waiting until lessons on regex to create the grep command

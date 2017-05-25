@@ -1,0 +1,9 @@
+Class name: Echo
+
+Responsibilities:
+*Appropriately calls upon the corresponding Echo command given a valid entry
+*Overwrites or appends a file's contents depending on the command given
+ 
+Collaborators:
+*EchoOverwrite
+*EchoAppend

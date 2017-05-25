@@ -1,0 +1,15 @@
+a) What did I work on last time?
+ - Finished DirStack
+ - Began PushD and PopD but could not move forward because classes needed
+ 	to be finished
+
+b) What do I plan to work on now?  
+ - Now that the classes needed for PushD and PopD are completed, I will finish
+ 	the two classes
+ - Update the driver/JShell as new classes are made
+ - Begin testing on some classes (History, DirStack)
+
+c) Am I blocked on anything?
+ - Cannot do anything with JShell until ProQuery is completed
+ - PushD and PopD cannot be completed until the final adjustments to CD
+ 	are made

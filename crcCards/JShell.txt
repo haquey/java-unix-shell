@@ -1,0 +1,9 @@
+Class name: JShell
+
+Responsibilities:
+*Takes and accepts commands given from the user
+*Sends all commands to the proQuery class to be processed
+
+Collaborators:
+*JFileSystem
+*ProQuery

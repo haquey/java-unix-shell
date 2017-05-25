@@ -1,0 +1,65 @@
+July 02 to July 08
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) If the user specifies a “-R” parameter with the “ls” command, the
+   program will display all subdirectories of the specified path on
+   the Shell.
+b) The user can move a file from a specified OLDPATH to a NEWPATH
+   by using the “mv” command. The specified paths may be relative
+   to the current directory or full paths. User is given an error if
+   an invalid directory path is given
+c) The user should be able to copy files or directories from one
+   location OLDPATH into another NEWPATH, using “cp”
+   (while keeping the original intact)
+d) The user can use the “curl” command to get file containing all the
+   String texts found on the “URL” provided to the command
+   i.e. curl URL
+e) The user can print any lines containing a given regex in a file
+   (path) using the “grep” command i.e. grep REGEX PATH
+f) The user can check all lines in all files that contain a given
+   regex and prints the file name, file location and the lines that
+   contain the given regex i.e. grep -R REGEX PATH
+g) The user can use the “man” command to get a description of
+   another specific command “CMD” i.e. man CMD
+h) The user can take any command and add the “> OUTFILE” to
+   create a file whose contents are overwritten with the specified 
+   command’s output. Adding the “>> OUTFILE” will create a file whose
+   contents are appended with the specified command’s output.
+   i.e. pwd > OUTFILE
+i) The user can recall any particular previous input by its number.
+   i.e. "!3" would give the third input the user had inserted while
+   running the program.
+
+
+Specific tasks to be accomplished:
+a-1. (LS) Create a special case for ls to interact with an "-R" parameter
+a-2. (LS) Create a method to display subdirectories of a specified directory
+b-1. (MV) Begin/complete code for an "MV" class
+b-2. (MV) Make Mv interact properly with the file system and its directories 
+c-1. (CP) Begin/complete code for a "CP" class
+c-2. (CP) Make Cp interact properly with the file system and its directories 
+d-1. (CUrl) Start base code for CUrl class
+d-2. (CUrl) Get CUrl to connect to a specified url and obtain its contents
+e-1. (Grep) Start base code for "Grep" class
+e-2. (Grep) Give ability to parse files for lines with a specified regex
+f-1. (Grep) Give ability to print file names and locations as specified 
+g-1. (Man) Create new documentation for new command classes
+g-2. (Man) Create manual methods in command classes for Man to interact with
+h-1. (ProQuery) Change to parse for ">", ">>" and OUTFILE keywords/characters
+i-1. (History) Add method to return specified numbered input
+
+
+These tasks are assigned as follows:
+
+User: Xu Sheng Gao
+Tasks: d-1, d-2
+
+User: Yasir Haque
+Tasks: b-1, b-2, g-1, g-2. h-1
+
+User: Marion Vasantharajah
+Tasks: a-1, a-2, c-1, c-2
+
+User: Adnan Shahid
+Tasks: e-1, e-2, f-1, i-1

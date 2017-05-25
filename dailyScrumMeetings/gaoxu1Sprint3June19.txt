@@ -1,0 +1,19 @@
+a) What did I work on last time?
+	Completed CD class
+	Currenting working on implementations of EchoAppend and EchoOverride
+	Completed PWD class
+	Helped teammates find logical errors in their code
+	Started testing code
+	
+	
+b) What do I plan to work on now?  
+	I will continue testing others' codes to make sure we're continuously on 
+	track
+	I will start testing my own code
+	I will complete output once history and other classes are complete
+
+c) Am I blocked on anything?
+	I am stuck on the implementation of Output until history and other classes
+	that ouputs information are complete.
+	I am stuck on reoccuring code
+	

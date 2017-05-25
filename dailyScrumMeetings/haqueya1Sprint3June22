@@ -1,0 +1,18 @@
+
+a) What did I work on last time?
+	- Completely redesigned and implemented ProQuery based on new knowledge
+	  acquired from tutorial this week
+	- Created a CommandInterface class and restructured code
+	- Fixed CRC cards to represent new design
+	- Made ProQuery collaborate with numerous command classes
+	
+b) What do I plan to work on now?  
+	- Continue working on ProQuery and making sure that it functions properly
+	  with all command classes and different test cases
+	- Create new Echo class to collaborate with ProQuery
+	- Make ProQuery collaborate with a DirStack
+	- Give ProQuery special cases for working with PushD and PopD commands
+
+c) Am I blocked on anything?
+	- DirStack and PushD/PopD must be functioning properly for it to
+	  successfully collaborate with the ProQuery

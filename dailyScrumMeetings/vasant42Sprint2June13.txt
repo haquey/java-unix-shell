@@ -1,0 +1,14 @@
+a) What did I work on last time?
+ - Implemented and finished Filesystem
+ - Ended up having to also create Mkdir to ensure my implementation would work
+ - Also created Folder class to test Mkdir and Filesystem
+
+b) What do I plan to work on now?  
+ - Start and (will try to finish) the LS class
+ - Test Mkdir, Filesystem, and folder once the other nessesacry commands are
+   finished.
+ - Add 1 more responsibility to Mkdir (multiple simultaneous creation)
+
+c) Am I blocked on anything?
+ - Not at the moment, if anything comes up I will be sure to ask my group
+   for advice

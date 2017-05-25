@@ -1,0 +1,15 @@
+a) What did I work on last time?
+ - Discussed design aspects for the assignment with group
+ - Discussed implementation for majority of the classes
+ - Created many crc cards with the previous implementation of both groups
+
+b) What do I plan to work on now?  
+ - Start on the Input and History class
+ - Discuss implementation on current and any possible new classes with the group
+
+c) Am I blocked on anything?
+ - No as both the Input class will be able to work independently with
+ 	respect to behaviour and implementation and the history class will
+ 	only need the Input class to test things
+ - To test if the Input class has appropriate functionality, the validator class
+ 	will be needed

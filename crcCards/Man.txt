@@ -1,0 +1,8 @@
+Class name: Man
+
+Responsibilities:
+*Prints out the documentation regarding all the valid commands that the shell
+ will take.
+
+Collaborators:
+*Output

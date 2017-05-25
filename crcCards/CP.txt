@@ -1,0 +1,10 @@
+Class name: CP
+
+Parent class: MV
+
+Responsibilities:
+*copies the File/Folder at the specified location into another Folder
+*Performs the same action as MV except the object is NOT deleted
+
+Collaborators:
+*FileSystem

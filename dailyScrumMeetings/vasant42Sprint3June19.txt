@@ -1,0 +1,14 @@
+a) What did I work on last time?
+ - Finished the majority of LS
+ - LS now works with relative and absolute paths
+ - Properly formatted and commented FileSystem and Mkdir
+ - Changed the implementation of getObject to take advatage of the tree like
+   nature of the implementation
+
+b) What do I plan to work on now?  
+ - Completely finish LS
+ - Come up with appropriate test cases
+ - Write test cases for Mkdir and LS
+
+c) Am I blocked on anything?
+ - No not at the moment

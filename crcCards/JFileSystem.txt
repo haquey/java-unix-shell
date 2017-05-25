@@ -1,0 +1,15 @@
+Class name: JFileSystem
+
+Implements: FileSystem
+
+Subclass: File
+
+Responsibilities:
+*Manages all File and Folder objects
+*Reads and writes to the File object
+*File needs to print its output for some commands, to the output is run
+ through FileSystem into output
+
+Collaborations:
+*Folder
+*DirStack

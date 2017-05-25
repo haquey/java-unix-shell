@@ -1,0 +1,12 @@
+
+a) What did I work on last time?
+	- Discussed design implementation regarding new methods/functionality
+	- Created new crc cards for new commands outlined by Assignment2B
+
+b) What do I plan to work on now?  
+	- Fix ProQuery to work with ">" and ">>" parameters
+	- Change echo class to meet new behaviours according to new design
+	- Start code for MV class
+
+c) Am I blocked on anything?
+	- Not in the immediate future

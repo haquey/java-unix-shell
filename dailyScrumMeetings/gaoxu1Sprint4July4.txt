@@ -1,0 +1,17 @@
+a) What did I work on last time?
+	created new product backlog with team mates to suit the new criteria
+	Started discussing with team which roles belongs to whom
+	Started discussing with team how to implement the redirecting of
+	outputs
+	Started implementing changes to older classes
+	
+	
+b) What do I plan to work on now?  
+	I will continue changing my older classes to meet the new requirements
+	I will continue discussing with my team how my commands will collaborate
+	with the current fileSystem
+	I will start creating new code once I am done revising my old commands
+
+c) Am I blocked on anything?
+	I am not blocked on anything
+	

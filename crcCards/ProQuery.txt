@@ -1,0 +1,21 @@
+Class Name: ProQuery
+
+Responsibilities:
+*Accepts the users query and runs the corresponding command
+*Checks whether the user's entry is a valid command
+*Sends commands to the History class
+*Sends any error messages through the Output class
+*Contains a DirStack for which PushD and PopD acts upon 
+
+Collaborators:
+*Exit
+*History
+*Output
+*Man
+*CD
+*Mkdir
+*LS
+*PWD
+*PushD
+*PopD
+*DirStack

@@ -1,0 +1,15 @@
+
+a) What did I work on last time?
+	- Discussed/argued JShell design aspects for the assignment
+	- Discussed implementation details for certain classes
+	- Created numerous crc cards 
+
+b) What do I plan to work on now?  
+	- Start and potentially finish the Validator class
+	- Discuss further implementation details for other classes with the group
+
+c) Am I blocked on anything?
+	- Not at the moment as the Validator class works pretty independently
+	  in terms of behaviour and implementation.
+	- Might need the input, output and jshell classes to be started to help
+	  test the validator class

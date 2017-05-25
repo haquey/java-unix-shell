@@ -1,0 +1,68 @@
+  User Stories						                            Estimate (Hours)
+  
+  Allow the user to run the program and automatically 					5   
+  to create an empty directory
+  
+  Display a list of valid commands for the user to 						4	
+  input
+  
+  The user should be able to input a command        			    	1
+
+  The user will be notified if their commands not valid 	    		5
+  
+  The user can terminate the session by running the 					2
+  “exit” command
+  
+  The user can create new directories using the “mkdir”					8
+  command and a directory “DIR” i.e. mkdir DIR
+  
+  The user can traverse through nested directories using the “cd” 		7
+  command and a given directory “DIR” i.e. cd DIR. Instead of a 
+  directory the user can pass through “..” which represents the 
+  parent directory or “.” which represent the current directory 
+  
+  The user can print a file or multiple files onto the shell using		5
+  the “cat” or “ls” command and given file names “FILE1 FILE2 …” 		
+  i.e. cat FILE1 i.e. ls FILE1 FILE2 
+  
+  The user can print the contents of the directory using the “ls”   	8
+  command and a valid path “PATH”. i.e. ls PATH … The user 
+  is given a error message if an invalid path is given.
+  
+  The user can display the whole path of the current directory 			10
+  using the “pwd” command
+  
+  The user can save the current working directory using the 			10
+  “pushd DIR” (where DIR is a specified directory) command 
+  and  change to the specified DIR as the working directory. 
+  The saved old current directory can be returned to at any 
+  time.
+  
+  The user can remove the last saved directory using the “popd”			10
+  command and makes it the current working directory. If there 
+  is no saved directory an appropriate error message will be 
+  displayed.
+  
+  The user can print out recent commands in chronological 				4
+  order using the “history” command, this also includes syntactic		
+  errors typed. i.e history.
+  
+  The user can print out recent commands in chronological order 		2
+  and specify from which command number they wish to see using
+  the “history [number]” command. This will also include any 
+  syntactic errors typed i.e. history 3 will display all commands 
+  past the 3rd most recent command
+  
+  The user can use the “echo” command to print a string on				10
+  the shell. If a “> OUTFILE” parameter is specified within
+  the command, modify the file such that it only contains the
+  given string argument “STRING”. If the file does not exist,
+  create a new file with the given string argument as the body.
+  i.e. echo STRING > OUTFILE
+  
+  The user can use the “echo” command with “>> OUTFILE” to modify		3
+  the outfile such that it appends an extra string line “STRING” to 
+  the end of the file. i.e. echo STRING >> OUTFILE
+  
+  The user can use the “man” command to get a description of 			4
+  another specific command “CMD” i.e. man CMD

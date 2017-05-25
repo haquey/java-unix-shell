@@ -1,0 +1,8 @@
+Class name: CAT
+Parent class: CommandInterface
+
+Responsibilities:
+*Can read a file
+
+Collaborators:
+*FileSystem

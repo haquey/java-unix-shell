@@ -1,0 +1,13 @@
+a) What did I work on last time?
+ - Implemented -R functionality to LS
+ - Works with Folders
+ - Tested it using informal test cases
+
+b) What do I plan to work on now?  
+ - Create test cases for LS involving -R
+ - Make test cases for -R in LS using Files
+ - Implement the echo method for mkdir and LS 
+ 
+c) Am I blocked on anything?
+ - No, I just needed to do some testing then wait for MV class to be completed
+   so I can work on CP class

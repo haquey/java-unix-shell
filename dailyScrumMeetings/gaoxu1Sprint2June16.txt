@@ -1,0 +1,21 @@
+a) What did I work on last time?
+	Completed File class
+	Discussed implementations of EchoAppend and EchoOverride with FileSystem
+	and cd with teammates
+	Started implementing EchoAppend and EchoOverride
+	Helped teammates find logical errors in their code	
+	
+	
+b) What do I plan to work on now?  
+	I will start implementing pwd and cd classes
+	I will continue testing others' codes to make sure we're continuously on 
+	track
+	I will continue implementing two echo classes
+	I will complete output once history and other classes are complete
+
+c) Am I blocked on anything?
+	I am stuck on the implementation of Output until history and other classes
+	that ouputs information are complete.
+	I am stuck on how mkdir does not use cd to traverse through folders to make
+	a folder
+	

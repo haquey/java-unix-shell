@@ -1,0 +1,12 @@
+a) What did I work on last time?
+ - We discussed JShell design and its specifications
+ - We discussed a little about the implementation details
+ - Created all necessary crc cards 
+
+b) What do I plan to work on now?  
+ - Start and (will try to finish) the File System Class
+ - Discuss further implementation details for other the classes with group
+
+c) Am I blocked on anything?
+ - No not right now, I have a plan to implement the class and am confident
+   i'll be able to code it without hitches

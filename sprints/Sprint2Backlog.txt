@@ -1,0 +1,69 @@
+June 14 to June 19
+
+User Stories from Product Backlog that we will address in this sprint:
+a) The user can traverse through nested directories using the “cd” 
+   command and a given directory “DIR” i.e. cd DIR. Instead of a 
+   directory the user can pass through “..” which represents the 
+   parent directory or “.” which represent the current directory
+b) The user can print a file or multiple files onto the shell using
+   the “cat” or “ls” command and given file names “FILE1 FILE2 …” 		
+   i.e. cat FILE1 i.e. ls FILE1 FILE2 
+c) The user can print the contents of the directory using the “ls”  
+   command and a valid path “PATH”. i.e. ls PATH … The user 
+   is given a error message if an invalid path is given.
+d) The user can display the whole path of the current directory 
+   using the “pwd” command
+e) The user can save the current working directory using the 		
+   “pushd DIR” (where DIR is a specified directory) command 
+   and  change to the specified DIR as the working directory. 
+   The saved old current directory can be returned to at any 
+   time.
+f) The user can remove the last saved directory using the “popd”
+   command and makes it the current working directory. If there 
+   is no saved directory an appropriate error message will be 
+   displayed.
+g) The user can use the “man” command to get a description of
+   another specific command “CMD” i.e. man CMD
+h) The user can use the “echo” command with “>> OUTFILE” to modify		
+   the outfile such that it appends an extra string line “STRING” to 
+   the end of the file. i.e. echo STRING >> OUTFILE
+i) The user should be able to create and store text in the form of a file,
+   and should be able to display the contents
+j) The user enters a command and the proper command is ensured to run
+
+
+Specific tasks to be accomplished:
+a-1. (CD) Base code for the class will be finished
+a-2. (CD) Will make sure the currDir will be constantly updated
+b-1. (Cat) Begin coding the structure of the Cat class 
+b-2. (Cat) Will make sure it can collaborate with file class
+c-1. (LS) Print the contents of the current working directory
+c-2. (LS) Print the contents files
+c-3. (LS) Add capability to display multiple paths 
+d-1. (Pwd) Begin coding Pwd class so it can print the working directory
+d-2. (Pwd) Also make it so it can print the working filepath
+e-1. (pushd) Base code for the class is going to be finished 
+f-1. (popd) Base code for the class will be done
+f-2. (DirStack) uses pushd and popd
+g-1. (Man) Create documentation for all commands in their toString methods
+g-2. (Man) Call toString methods to print documentation for user when specified
+h-1. (EchoAppend) Create the code to be able to append text to a text file
+h-2. (EchoOverwrite) Create the code to be able to overwrite the text
+i-1. (File) create the file class, to be able to store all the info
+j-1. (ProQuery) Create the code to be able to call the correct command
+
+
+These tasks are assigned as follows:
+
+User: Xu Sheng Gao
+Tasks: a-1, a-2, d-1, d-2, h-1, h-2 
+   
+User: Yasir Haque
+Tasks: b-1, b-2, g-1, g-2, i-1, j-1
+
+User: Marion Vasantharajah
+Tasks: c-1, c-2, c-3
+
+User: Adnan Shahid
+Tasks: e-1, f-1, f-2
+

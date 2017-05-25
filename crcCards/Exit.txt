@@ -1,0 +1,8 @@
+Class name: Exit
+
+Parent Class: CommandInterface
+
+Responsibilities:
+*terminates (closes) the JShell when the command is run
+
+Collaborators:

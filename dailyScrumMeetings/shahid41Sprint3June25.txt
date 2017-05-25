@@ -1,0 +1,13 @@
+a) What did I work on last time?
+ - Updated all the crcCards with the new implementation of the interface
+ - Created multiple test classes
+ - Found an implementation of PushD and PopD that seemed to be the best
+ - Updated History, PushD and PopD to work with the interface
+
+b) What do I plan to work on now?  
+ - Find any errors in my files
+ - Comment anything left uncommented
+ - Add a couple test cases
+
+c) Am I blocked on anything?
+ - Not at the moment

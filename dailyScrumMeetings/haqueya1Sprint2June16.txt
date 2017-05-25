@@ -1,0 +1,15 @@
+
+a) What did I work on last time?
+	- Designed/planned implementation for ProQuery class and started it
+	- Designed/planned implementation for Cat class and started it
+	- Designed/planned implementation for Man class and started it
+	
+b) What do I plan to work on now?  
+	- Commit completed code for Cat, Man and ProQuery classes
+	- Fix toString methods for all command classes so that they contain
+	  their respective documentation/instructions for the man class/command
+	  to make use of
+
+c) Am I blocked on anything?
+	- Command classes should all be made so that I can change their all of
+	  their respective toString methods (i.e. CD)

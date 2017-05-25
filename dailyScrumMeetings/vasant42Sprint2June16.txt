@@ -1,0 +1,17 @@
+a) What did I work on last time?
+ - Began LS, was not able to finish
+ - LS can now display the contents of the current working directory
+ - Thought of the implementation of LS
+ - Added some more functionality to Folder and Filesystem class
+
+b) What do I plan to work on now?  
+ - I will attempt to finish the majority of LS class
+ - I discovered that I missed some functionality for Mkdir class that must be 
+   added
+
+c) Am I blocked on anything?
+ - I am a little confused as to the capabilities of LS and what to do for 
+   certain arguments; will ask on piazza for clarification
+ - Still a little unclear of how to work with relative paths; will attempt to
+   think through it logical and find a solution before the commencement of the 
+   final sprint

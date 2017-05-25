@@ -1,0 +1,11 @@
+Class name: LS
+
+ParentClass: CommandInterface
+
+Responsibilities:
+*Lists the names of files/folders in the current directory
+*If the proper argument("-r" or "-R") is given then this class will also 
+ list every sub-directory in the specified path
+
+Collaborators:
+*FileSystem

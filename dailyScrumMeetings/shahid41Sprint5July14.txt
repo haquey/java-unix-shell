@@ -1,0 +1,14 @@
+a) What did I work on last time?
+	- Completed the grep command
+	- Added some more tests for the grep command
+	- Updated the !Number command
+
+b) What do I plan to work on now?  
+	- Edit grep for error handling
+	- Edit !Number for error handling
+	- Make some error classes
+	- Update all classes so they now return a string (new implementation)
+	- Update history class so that it doesn't use internals in its methods
+
+c) Am I blocked on anything?
+	- Am encountering some trouble doing error handling
